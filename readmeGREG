@@ -1,0 +1,5 @@
+NPM CI 
+BDD : PostgreSQL 
+Pour lancer le serveur faire : npm run start:postgres
+ORM : Prisma
+Pour lancer les tests faire : npm run test:e2e:postgres
